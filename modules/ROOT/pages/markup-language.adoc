@@ -1,0 +1,22 @@
+= Markup language
+
+We write all the source content for this project in text files, using a light-weight markup language called Asciidoc.
+If you've heard of Markdown then know that Asciidoc is very similar, but more standardised and more powerful for documentation.
+
+NOTE: Asciidoc files can use a few different extensions, but we use `.adoc` throughout.
+
+Benefits of Asciidoc include:
+
+* We can generate a range of formats (website first, hopefully app and PDF later) from the same source (single-source, multi-channel publishing).
+// Not really true at the moment given that we're using Antora and its specialised file structure to 'chunk' the website in support of topic-based writing and usability (instead of monolithic web pages). Antora does not yet feature the ability to compile other formats.
+
+* In combination with other software, it facilitates truly collaborative writing through a 'docs as code' approach.
+
+* Flexible re-use of content, to minimise errors and inconsistencies in content that we want to repeat in identical or very similar tracts.
+
+* Easy, robust cross-referencing and redirection of links when we need to change the address of a web page.
+
+* Flexibility to allow people from outside the core team to use a web interface to view the source content and to suggest edits directly.
+
+All in all, Asciidoc is much easier to use than heavy-weight options like HTML or XML-based languages. 
+Yet, when compared to typical writing tools such as wikis or word processors, it also offers more power in many of the ways that really matter for effective collaboration.

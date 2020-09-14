@@ -1,0 +1,3 @@
+= Publication
+
+Once the source content is compiled into output formats we publish them at {uri-project}.

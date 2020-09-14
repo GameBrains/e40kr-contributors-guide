@@ -1,0 +1,14 @@
+= Write with Asciidoc
+
+(General information below, to be replaced with information that is particular to this project, such as: 'getting started'; writing style guide; information architecture rules; etcetera.)
+// #TODO: Create: 'getting started'; writing style guide; information architecture rules; etcetera.
+
+* See link:https://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoc Writer's Guide, window=_blank].
+* See also link:https://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual, window=_blank] and link:https://docs.antora.org/[Antora Documentation, window=_blank].
+
+[TIP]
+====
+Don't be intimidated by these guides. Much of their content is relevant only for set-up that you won't have to deal with, or for software installation that only members of the core team are likely to want to bother with (and even then, much can be done in a web interface -- no installation required).
+
+In future, this project should include much friendlier chunks of information that are directly relevant for collaborators in this project.
+====

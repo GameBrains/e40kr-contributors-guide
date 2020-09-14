@@ -1,0 +1,23 @@
+:project-name: <i>Epic 40,000 Remastered</i>
+= {project-name} Contributor's Guide
+// URIs:
+:uri-project: https://project?
+:uri-playbook: https://playbook?
+:uri-core-team: https://core-team?
+
+== About this repository
+
+This repository contains the source code for the Contributor's Guide component of the {uri-project}[{project-name}] project.
+
+For more about the project and its components, see the {uri-playbook}[playbook repository].
+
+== Copyright and licence
+
+Copyright (C) 2020 Eric Weston and individual {project-name} contributors.
+
+Use of this software is granted under the terms of the https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0] (MPL-2.0).
+See link:LICENSE[] to find the full license text.
+
+== Authors
+
+Development of {project-name} is led by {uri-core-team}[the core team].

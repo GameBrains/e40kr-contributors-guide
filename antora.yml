@@ -1,0 +1,11 @@
+name: contributors-guide
+title: Contributor's Guide
+version: master
+asciidoc:
+  attributes:
+    project-name: <i>Epic 40,000 Remastered</i>
+    page-pagination: true
+    uri-core-team: http://core-team?
+start_page: ROOT:overview.adoc
+nav:
+- modules/ROOT/nav.adoc

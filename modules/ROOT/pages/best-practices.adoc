@@ -1,0 +1,9 @@
+= Best practices
+
+This project aims to deploy a number of best practices to make the user experiences (for both authors and readers) as good as possible.
+
+One such practice is 'topic-based writing' in the form described in link:https://everypageispageone.com/[Every Page is Page One, window=_blank].
+This means that the Asciidoc page files in this project each comprise a self-contained 'topic' rather than a monolithic 'chapter' or other traditional book-based construct.
+
+The detail is a little more complicated than this, but the point is that authors can use a given topic in a number of clever ways without it seeming to be incomplete, out of place or otherwise 'weird' to the reader.
+Less maintenance, fewer errors, and better usability (especially in digital formats).

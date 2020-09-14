@@ -1,0 +1,21 @@
+= Repositories and version control
+
+Each major component of this project has files that we store in a *repository*.
+All of the repositories in this project are 'open source' — that is, anyone can view their contents, live on the Internet.
+
+The service we use to host the repositories is called *GitHub*.
+As well as version control, this service provides features that integrate project management closely with the source files. This makes it much easier to keep track of progress and to act on community feedback.
+
+// You'll find a complete list of documentation repositories for {project-name} at https://github.com/????.
+
+GitHub is one of a number of services that are built around a version control technology called Git.
+Git is a powerful tool that helps collaborators to keep track as they add, remove, modify and share files -- no matter where and when they each work on the project.
+
+Git registers a complete history of changes in every source file in the repository, along with a note of which user account made those changes.
+So, everyone can see what is going on and authors can compare versions and roll back mistakes if they need to.
+
+The repositories do not contain the outputs in their final form.
+We refer to the content that we store in the Git repositories (mostly Asciidoc content files, but some other files too) as the *source* content.
+To produce the deliverable outputs, we use software to *compile* the source into formats suitable for reading, browsing or printing (such as HTML website, and hopefully HTML Android app and PDF in due course).
+
+The purpose of the repositories and GitHub is to facilitate collaborative authoring, to co-ordinate direct contributors and to manage contributions from the wider community.
