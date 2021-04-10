@@ -1,23 +1,22 @@
 :project-name: <i>Epic 40,000 Remastered</i>
 = {project-name} Contributor's Guide
 // URIs:
-:uri-project: https://project?
-:uri-playbook: https://playbook?
-:uri-core-team: https://core-team?
+:uri-project: 
+:uri-playbook: 
+:uri-core-team: 
 
 == About this repository
 
 This repository contains the source code for the Contributor's Guide component of the {uri-project}[{project-name}] project.
 
-For more about the project and its components, see the {uri-playbook}[playbook repository].
+For more about the project and its components, see the `README.adoc` file in the {uri-playbook}[playbook repository].
 
 == Copyright and licence
 
-Copyright (C) 2020 Eric Weston and individual {project-name} contributors.
+Copyright 2020 Eric Weston and the Epic 40,000 Remastered project core team.
 
-Use of this software is granted under the terms of the https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0] (MPL-2.0).
-See link:LICENSE[] to find the full license text.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
 
-== Authors
-
-Development of {project-name} is led by {uri-core-team}[the core team].
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and limitations under the License.
