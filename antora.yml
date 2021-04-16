@@ -3,7 +3,7 @@ title: Contributor's Guide
 version: master
 asciidoc:
   attributes:
-    project-name: <i>Epic 40,000 Remastered</i>
+    project-name: <i>Epic 40k Remastered</i>
     page-pagination: true
     uri-core-team: http://core-team?
 start_page: ROOT:overview.adoc
