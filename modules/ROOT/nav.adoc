@@ -4,3 +4,6 @@
  ** xref:repositories-and-version-control.adoc[]
  ** xref:publication.adoc[]
 * xref:write-with-asciidoc.adoc[]
+
+* xref:style-guide.adoc[]
+** xref:a-to-z-of-style.adoc[]

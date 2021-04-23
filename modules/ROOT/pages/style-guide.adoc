@@ -1,0 +1,24 @@
+= Style guide
+
+The style guide acts as a neutral arbiter of 'the right way' to write for this project.
+This helps to ensure a consistent standard and to minimise edits and rework -- which is especially important for a project which will involve multiple authors who work at different times and places.
+
+With proper use, the style guide helps us to:
+
+* *Be consistent*.
+We avoid inconsistencies that confuse or annoy readers.
+* *Reduce confrontation*, because the authority lies with the style guide.
+People tend to think that their way of writing something is the best way -- but we don't all agree.
+The style guide acts as a neutral arbiter of style.
+This makes it easier for us to set aside personal preferences and biases.
+* *Raise the level of trust among contributors*.
+It is easier to collaborate on content when everyone works to the same conventions without heated debate over trivia.
+	
+And, writing to a consistent style means:
+
+* *Fewer edits, less rework*.
+We produce high quality content more quickly.
+* *Faster onboarding*.
+New contributors can quickly understand and meet expectations.
+* *Better content*.
+We avoid ambiguity and common mistakes, so that the publication is easy to understand and free of needless distractions.
