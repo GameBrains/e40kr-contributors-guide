@@ -1,0 +1,14 @@
+= Symbols
+
+== & (ampersand)
+
+Avoid, except where it is specifically used in a brand name or trademark, or in rare cases where we are limited by the available space. 
+ 
+== / (forward slash)
+
+Where you use this symbol to mean 'either' (as in [green]#and/or#), do not surround it with spaces.
+ 
+== [[symbols_percent, % (percent)]]% (percent)
+
+Use the [green]#%# symbol, not the word [red]#percent#.
+If you are compelled to spell it out for some reason, note that both 'percent' and 'per cent' are acceptable -- but let's favour [green]#percent#, to be consistent.
