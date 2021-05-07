@@ -33,13 +33,10 @@ Use numerals, except in these cases in prose where you should use words:
 
 * For decimal values less than 1, always include the leading 0 ([green]#0.3#, not [red]#.3#).
 * For numerals over 999, insert commas for clarity ([green]#1,000#; [green]#2,500,000#).
-* Use [green]#to# in address ranges ([green]#7 to 15 Willow Street#). 
-* Use [green]#to# in other number ranges, or use en dash if you must [green]#–# (not hyphen [red]#-# or em dash [red]#—# ). [green]#8 to 12 vehicles#; [green]#8–12 vehicles#. 
-* For computer file sizes, use [green]#MB# by default unless there is a good reason to do otherwise ([green]#5.6 MB#, not [red]#5,600 KB#).
-* For tables and figures, use numerals throughout ([green]#Figure 1#)
+* Use [green]#to# in number ranges, or use en dash if you must [green]#–#, not hyphen [red]#-# or em dash [red]#—# ([green]#8 to 12 vehicles#; [green]#8–12 vehicles#). 
 
-=== More examples for numbers
-
+.More examples for numbers
+====
 [none]
 * [green]#We fired 7,043 rounds of ammunition#
 * [green]#There are three million barrels of fuel at stake# -- or, [green]#There are 3m barrels of fuel at stake#
@@ -50,3 +47,4 @@ Use numerals, except in these cases in prose where you should use words:
 * [green]#The 11^th^ planet in the system#
 * [green]#Two-thirds of the enemy's total strength#
 * [green]#On average, five D6 rolls that require a 4+ result will yield 2.5 hits#
+====

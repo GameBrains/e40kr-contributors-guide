@@ -1,0 +1,75 @@
+= A
+ 
+== [[a_an, a; an]] a; an
+
+Before an acronym, let pronunciation be your guide: 
+
+* [green]#an SHT# (ess-aytch-tee), not [red]#a SHT#; [green]#a CCW# (see-see-double-yoo), not [red]#an CCW#. 
+* Before a silent *h* use 'an' ([green]#it's an honest mistake#) but where the *h* is pronounced use 'a' ([green]#we found a heretic#).
+ 
+== and/or
+
+Do not place spaces around the forward slash. 
+ 
+== [[abbreviations]] abbreviations
+
+Use abbreviations with care.
+Don't take it for granted that all readers are familiar with an abbreviation.
+
+* *Do* give the full expansion the first time you use the term in a topic.
+If you will use the abbreviation of the term later in the topic, then first put it in brackets immediately after the full expansion.
+[green]#A super-heavy tank (SHT) is a fearsome machine. It's common for several SHTs to work together...#
+* *Don't* use an unfamiliar abbreviation if it won't be used again in the text.
+* *Don't* use an abbreviation as a verb ([green]#Direct AT shots at hard targets# not [red]#AT hard targets#).
++[TODO: Find a better example: In general, we should use a variable for the Anti-Tank ability, and spell out more general use of 'anti-tank', so we wouldn't use 'AT' in prose anyway.]+
+* *Don't* include full stops in abbreviations.
+* *Don't* use an apostrophe to pluralise abbreviations unless the abbreviation ends in an *s* ([green]#the titan destroyed two SHTs#; [green]#_Epic 40,000_ was published in the late 1990s#). 
+ 
+== acronyms and initialisms
+
+See also <<abbreviations>>.
+
+We define an *acronym* as a set of initial letters of words, which we then pronounce as a word ([green]#PIN#; [green]#NASA#).
+
+We define an *initialism* as a set of initial letters of words, which we *do not* pronounce as a word ([green]#SHT#); ([green]#GW#) .
+
+In general, you should use upper case for both acronyms and initialisms.
+But note the common exceptions:
+
+* Where an acronym is used as a proper name then you may capitalise just the first letter ([green]#Unesco#), to avoid an excess of capital letters.
+But in general, aim to follow whatever convention the organisation itself uses. 
+* Some words that started out as acronyms are now treated as orthodox nouns (as with [green]#laser#). 
+
+TIP: Take extra care with *a* and *an* before an acronym or initialism (see <<a_an>>).
+ 
+== advice; advise
+
+Advice = noun.
+Advise = verb.
+[green]#I advise you, but you might not heed my advice#.
+ 
+== affect; effect
+
+Where the meaning is to influence or change, use 'effect' for noun usage ([green]#it had a profound effect on me#) and 'affect' for verb usage ([green]#it affected me profoundly#).
+
+When conveying pretence, use 'affect' for both verbs and adjectives ([green]#she was very affected#; [green]#she affected a convincing accent#).
+
+When used to convey achievement, use 'effect' ([green]#I'm trying to effect a change in our attitude to social networking#). 
+ 
+== ALPHA; BETA
+
+When you mean to refer to an early product release in prose, use upper case.
+[green]#This is an ALPHA release#.
+Don't use [red]#This is in ALPHA#. 
+ 
+== anthropomorphism (humanising inanimate objects)
+
+Use your judgement here.
+Words like *allows*, *needs*, *offers* and *permits* are anthropomorphic, but generally acceptable.
+See link:http://literarydevices.net/anthropomorphism/[+Anthropomorphism, on the Literary Devices website+, window=_blank]. 
+ 
+== apostrophes
+
+* Use the normal possessive ending ([green]#'s#) after singular words or names that end in *s* ([green]#boss's#; [green]#St James's#), and after plurals that do not end in *s* ([green]#children's#; [green]#Frenchmen's#; [green]#media's#; [green]#women's#). 
+* Use the ending [green]#s'# on plurals that end in *s* ([green]#Danes'#; [green]#bosses'#; [green]#Joneses'#). 
+* Do not put apostrophes into decades or centuries ([green]#the 1990s#; [green]#the 1800s#).
