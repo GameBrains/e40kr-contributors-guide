@@ -1,1 +1,18 @@
 = B
+
+== brackets
+
+* Round brackets *( )*: Default to these for most use cases.
+* Square brackets *[ ]*: Use these where you need to insert a comment or clarification as an editor.
+
+== [[bullets, bullets (unordered lists)]]bullets (unordered lists)
+
+* If you introduce the list with a lead-in sentence, end that sentence with a colon.
+* If the bullets are a continuation of a lead-in sentence like this, then:
+ ** ensure that each bullet is a single sentence, with no full stops
+ ** ensure that every sentence makes sense as a continuation of the lead-in sentence
+ ** do not capitalise the first word of each bullet (unless it is a proper noun or acronym of course, as usual)
+ ** do not add a full stop or other punctuation at the end of any sentence — not even to the last one
+ ** if you really need to create a sentence with more than one (related) clause then use a semi-colon or an em dash -- but don't overdo it
+* If the bullets are not a continuation of a lead-in sentence, write the sentences or paragraphs as normal.
+See also <<steps>>.

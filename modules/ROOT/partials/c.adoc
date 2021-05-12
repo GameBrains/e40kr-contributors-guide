@@ -1,1 +1,32 @@
 = C
+ 
+== capitalisation
+
+Some rules:
+
+*Do capitalise:*
+
+* proper nouns (people, places, names, brands) -- [green]#Ancient Terra#
+* special keywords, such as [green]#{anti-tank}#, when we use them as such -- though in most cases you should use a defined variable which outputs with the correct capitalisation and formatting anyway
+* titles of publications -- see also <<citations>> 
+* expansions of initialisms for computer languages and protocol names -- [green]#Hypertext Transfer Protocol (HTTP)#
+
+*Don't capitalise:*
+
+* terms that also happen to be special keywords, when we don't use them as such -- [green]#use them in an anti-tank role#
+* compass directions and derivations ([green]#north, east, south and west#; [green]#southern Necromunda#; [green]#the north-western wastelands#) -- unless they form part of an actual or implied proper name for a region.
+* expansion of initialisms, except where the expansion includes words that we would normally capitalise anyway
+
+*Do not* use [red]#UPPER CASE# for <<emphasis>>.
+ 
+== citations
+
+In the absence of other guidance for a particular case, give citations in the following format: <article title>, <publication>, <issue, or date>.
+For example: [green]#Path of the Eldar, White Dwarf, issue 214.#
+
+== contractions
+
+Contractions like [green]#they've#, [green]#we'll#, [green]#can't#, [green]#don't# are okay.
+
+Avoid those like [red]#should've#, [red]#could've# and [red]#would've#, and don't use incorrect perversions of these contractions such as [red]#should of# or [red]#coulda#.
+Similarly, avoid [red]#they're# -- or at least use the correct homophone for the context (they're/their/there).

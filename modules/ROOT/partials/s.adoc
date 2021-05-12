@@ -1,2 +1,36 @@
 = S
 
+== setup; set up
+
+Setup = noun ([green]#Terrain setup#).
+Set up = verb ([green]#Set up the terrain#).
+Don't hyphenate. 
+ 
+== spelling
+
+Use modern UK English spellings ([green]#immobilised#, not [red]#immobilized#).
+
+On a related note, default to UK English word choices and phrases too -- but avoid terms that can confuse readers who are more familiar with other varieties of English, or for whom English may not be their first language.
+That said, there is a difference between informational content such as rules, and entertaining content such as short stories.
+For the latter, it is okay to add interest through a more varied use of UK English, just as Games Workshop do.
+ 
+== spaces
+
+Do not use double spaces after a full stop or other punctuation -- this became redundant when computers and proportional fonts replaced typewriters and monospace fonts. 
+ 
+== [[steps, steps (ordered lists)]]steps (ordered lists)
+
+Use steps to guide a reader through a process.
+
+. Use alphanumeric sequences, not bullets.
+. Use a lead-in or stem sentence where appropriate, but try to structure the content so that it is not necessary.
+. Punctuate each step normally, to include a full stop at the end of each step.
+If you need to include a sub-sequence within a step, use indented lowercase letters. 
+ .. Like this. 
+ .. And like this. 
+. If you need to provide choices or points in which the order is unimportant, use indented bullets (unordered list). 
+ ** Like this. 
+ ** And like this. 
+. And then continue with the next step like this. 
+
+See also <<bullets>>.
