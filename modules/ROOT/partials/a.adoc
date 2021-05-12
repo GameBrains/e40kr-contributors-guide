@@ -42,20 +42,6 @@ But in general, aim to follow whatever convention the organisation itself uses.
 
 TIP: Take extra care with *a* and *an* before an acronym or initialism (see <<a_an>>).
  
-== advice; advise
-
-Advice = noun.
-Advise = verb.
-[green]#I advise you, but you might not heed my advice#.
- 
-== affect; effect
-
-Where the meaning is to influence or change, use 'effect' for noun usage ([green]#it had a profound effect on me#) and 'affect' for verb usage ([green]#it affected me profoundly#).
-
-When conveying pretence, use 'affect' for both verbs and adjectives ([green]#she was very affected#; [green]#she affected a convincing accent#).
-
-When used to convey achievement, use 'effect' ([green]#I'm trying to effect a change in our attitude to social networking#). 
- 
 == ALPHA; BETA
 
 When you mean to refer to an early product release in prose, use upper case.
@@ -70,6 +56,6 @@ See link:http://literarydevices.net/anthropomorphism/[+Anthropomorphism, on the 
  
 == apostrophes
 
-* Use the normal possessive ending ([green]#'s#) after singular words or names that end in *s* ([green]#boss's#; [green]#St James's#), and after plurals that do not end in *s* ([green]#children's#; [green]#Frenchmen's#; [green]#media's#; [green]#women's#). 
-* Use the ending [green]#s'# on plurals that end in *s* ([green]#Danes'#; [green]#bosses'#; [green]#Joneses'#). 
-* Do not put apostrophes into decades or centuries ([green]#the 1990s#; [green]#the 1800s#).
+* Use the normal possessive ending ([green]#'s#) after singular words or names that end in *s* ([green]#Warboss's retinue#; [green]#Saint Scythus's fame#), and after plurals that do not end in *s* ([green]#Gretchin's#; [green]#Eldar's#; [green]#Guardsmen's#). 
+* Use the ending [green]#s'# on plurals that end in *s* ([green]#the Orks' warlike nature#; [green]#the Warbosses' armies converged#. 
+* Do not insert apostrophes into decades or centuries ([green]#the 1990s#; [green]#the 2000s#).

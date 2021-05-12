@@ -1,11 +1,9 @@
-name: e40kr-contributors-guide
-title: E40kR Contributor's Guide
+name: contributors-guide
+title: Contributor's Guide
 version: master
 asciidoc:
   attributes:
-    project-name: <i>Epic 40k Remastered</i>
-    page-pagination: true
-    uri-core-team: http://core-team?
+    uri-core-team: 
 start_page: ROOT:overview.adoc
 nav:
 - modules/ROOT/nav.adoc
