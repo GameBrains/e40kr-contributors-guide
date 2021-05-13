@@ -12,13 +12,14 @@ Use modern UK English spellings ([green]#immobilised#, not [red]#immobilized#).
 
 On a related note, default to UK English word choices and phrases too -- but avoid terms that can confuse readers who are more familiar with other varieties of English, or for whom English may not be their first language.
 That said, there is a difference between informational content such as rules, and entertaining content such as short stories.
-For the latter, it is okay to add interest through a more varied use of UK English, just as Games Workshop do.
+For the latter, it is okay to add interest through a more varied use of UK English, just as Games Workshop does.
  
 == spaces
 
 Do not use double spaces after a full stop or other punctuation -- this became redundant when computers and proportional fonts replaced typewriters and monospace fonts. 
- 
-== [[steps, steps (ordered lists)]]steps (ordered lists)
+
+[[steps]] 
+== steps (ordered lists)
 
 Use steps to guide a reader through a process.
 

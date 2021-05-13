@@ -2,8 +2,6 @@
  
 == capitalisation
 
-Some rules:
-
 *Do capitalise:*
 
 * proper nouns (people, places, names, brands) -- [green]#Ancient Terra#
@@ -18,7 +16,8 @@ Some rules:
 * expansion of initialisms, except where the expansion includes words that we would normally capitalise anyway
 
 *Do not* use [red]#UPPER CASE# for <<emphasis>>.
- 
+
+[[citations]]
 == citations
 
 In the absence of other guidance for a particular case, give citations in the following format: <article title>, <publication>, <issue, or date>.

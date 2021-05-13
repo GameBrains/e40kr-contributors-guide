@@ -11,7 +11,7 @@ This A to Z includes is a quick reference to conventions and best practices that
 * *Bold* provides emphasis where it may be helpful.
 * [green]#Green# text highlights *good* examples.
 * [red]#Red# text highlights *bad* examples. 
-* <<Hyperlinks>> will take you to related terms elsewhere in this A to Z, or to other helpful resources.
+* xref:#[Hyperlinks] will take you to related terms elsewhere in this A to Z, or to other helpful resources.
 
 .Navigation
 Use the table of contents for this page or click on a link below to jump to the corresponding section; or press kbd:[CTRL]+kbd:[F] to open your web browser's text search tool.

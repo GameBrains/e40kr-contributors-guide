@@ -5,7 +5,8 @@
 * Round brackets *( )*: Default to these for most use cases.
 * Square brackets *[ ]*: Use these where you need to insert a comment or clarification as an editor.
 
-== [[bullets, bullets (unordered lists)]]bullets (unordered lists)
+[[bullets]]
+== bullets (unordered lists)
 
 * If you introduce the list with a lead-in sentence, end that sentence with a colon.
 * If the bullets are a continuation of a lead-in sentence like this, then:

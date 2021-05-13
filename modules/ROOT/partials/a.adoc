@@ -1,6 +1,7 @@
 = A
- 
-== [[a_an, a; an]] a; an
+
+[[a_an]]
+== a; an
 
 Before an acronym, let pronunciation be your guide: 
 
@@ -10,8 +11,9 @@ Before an acronym, let pronunciation be your guide:
 == and/or
 
 Do not place spaces around the forward slash. 
- 
-== [[abbreviations]] abbreviations
+
+[[abbreviations]]
+== abbreviations
 
 Use abbreviations with care.
 Don't take it for granted that all readers are familiar with an abbreviation.
@@ -31,12 +33,12 @@ See also <<abbreviations>>.
 
 We define an *acronym* as a set of initial letters of words, which we then pronounce as a word ([green]#PIN#; [green]#NASA#).
 
-We define an *initialism* as a set of initial letters of words, which we *do not* pronounce as a word ([green]#SHT#); ([green]#GW#) .
+We define an *initialism* as a set of initial letters of words, which we *do not* pronounce as a word ([green]#SHT#; [green]#GW#) .
 
 In general, you should use upper case for both acronyms and initialisms.
 But note the common exceptions:
 
-* Where an acronym is used as a proper name then you may capitalise just the first letter ([green]#Unesco#), to avoid an excess of capital letters.
+* Where an acronym is used as a proper name then you may capitalise just the first letter, to avoid an excess of capital letters ([green]#Nasa#).
 But in general, aim to follow whatever convention the organisation itself uses. 
 * Some words that started out as acronyms are now treated as orthodox nouns (as with [green]#laser#). 
 
