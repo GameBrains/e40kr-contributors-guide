@@ -3,10 +3,10 @@
 [[versus]]
 == versus
 
-A Latin term that we use to mean _against_ or perhaps _compared with_.
+A <<latin>> term that we use to mean _against_ or perhaps _compared with_.
 Commonly abbreviated to [green]#vs#.
 
-However, it is usually better to *avoid* this <<latin>> and favour plain English instead.
+However, it is usually better to *avoid* this term and use plain English instead.
 
 == vs
 

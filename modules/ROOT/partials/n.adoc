@@ -1,2 +1,10 @@
 = N
 
+== none; non-
+
+None = pronoun meaning not one or not any ([green]#they checked the floor for dice, but there were none#). 
+Non- = a prefix added to words to mean not or the opposite of ([green]#non-human#; [green]#non-functional#).
+ 
+== numbers; numerals
+
+See <<numbers>>.

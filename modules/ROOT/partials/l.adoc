@@ -10,7 +10,7 @@ Use plain English alternatives instead.
 [[localisation]]
 == localisation and internationalisation
 
-Default to UK English word choices and phrases -- but avoid terms that can confuse readers who are more familiar with other varieties of English, or for whom English may not be their first language.
+Use UK English word choices and phrases -- but avoid terms that can confuse readers who are more familiar with other varieties of English, or for whom English may not be their first language.
 
 That said, there is a difference between informative content such as rules, and entertainment content such as short stories.
 This style guide is mostly concerned with standards for informative content, to make the rules as clear as possible.
