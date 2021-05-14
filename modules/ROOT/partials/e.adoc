@@ -1,2 +1,42 @@
 = E
 
+[[e_words]]
+== e-words
+
+These are contractions of 'electronic <something>'.
+Do not hyphenate everyday examples like [green]#email# and [green]#ebook# -- and do not insert needless capital letters ([red]#eBook#).
+ 
+== Earth
+
+Capitalise as normal if you mean the proper noun, and not if you don't ([green]#None now remember Earth as it was#; [green]#just a mess of earth and craters#.
+
+[[eg]]
+== eg
+
+A contraction of a <<latin>> term that we use to mean _for example_ or _such as_.
+Lower case.
+No stops.
+
+However, *avoid* this term and favour plain English instead.
+
+If you really must use it for some reason, then use it at the start of a new sentence or parenthesis, with a comma.
+Eg, like this or (eg, like this).
+
+Do not confuse with <<ie>>, which has a different meaning.
+
+[[emphasis]]
+== emphasis
+
+Use [green]*bold* styling for emphasis, not [red]#UPPER CASE# or [red]_italics_.
+ 
+== etc
+
+If you must use this abbreviation of the <<latin>> term then do not end it with a full stop (unless it is at the end of a sentence of course!) -- but see <<etcetera>>.
+
+[[etcetera]]
+== etcetera
+
+A <<latin>> term that we use to mean _and so on_.
+
+However, *avoid* this term and use plain English instead.
+Better yet, consider whether you can make a more concise and complete statement rather than leave the reader with questions about what might be the 'other stuff' you allude to.

@@ -5,14 +5,11 @@
 Setup = noun ([green]#Terrain setup#).
 Set up = verb ([green]#Set up the terrain#).
 Don't hyphenate. 
- 
+
+[[spelling]]
 == spelling
 
-Use modern UK English spellings ([green]#immobilised#, not [red]#immobilized#).
-
-On a related note, default to UK English word choices and phrases too -- but avoid terms that can confuse readers who are more familiar with other varieties of English, or for whom English may not be their first language.
-That said, there is a difference between informational content such as rules, and entertaining content such as short stories.
-For the latter, it is okay to add interest through a more varied use of UK English, just as Games Workshop does.
+Use modern UK English spellings ([green]#immobilised#, not [red]#immobilized#). See also <<localisation>>.
  
 == spaces
 

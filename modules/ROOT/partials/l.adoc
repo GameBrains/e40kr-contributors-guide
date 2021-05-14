@@ -1,2 +1,27 @@
 = L
 
+[[latin]]
+== Latin
+
+In general, avoid Latin terms and their contractions like [red]#etcetera#, [red]#ad hoc#, [red]#ie# and [red]#eg#.
+They may be obscure to some readers.
+Use plain English alternatives instead.
+
+[[localisation]]
+== localisation and internationalisation
+
+Default to UK English word choices and phrases -- but avoid terms that can confuse readers who are more familiar with other varieties of English, or for whom English may not be their first language.
+
+That said, there is a difference between informative content such as rules, and entertainment content such as short stories.
+This style guide is mostly concerned with standards for informative content, to make the rules as clear as possible.
+For entertainment content, it is okay to add interest through a more varied use of UK English, just as Games Workshop does.
+
+There are no plans to translate this project into other languages or to adapt it to other locales.
+
+See also <<spelling>>.
+
+== log in; login
+
+Log in = verb.
+Login = noun.
+([green]#To log in, enter your username and password in the login form#; [green]#If you've forgotten your login details, contact support#)
