@@ -1,9 +1,8 @@
 :project-name: <i>Epic Remastered</i>
 = {project-name} Contributor's Guide
 // URIs:
-:uri-project: 
-:uri-playbook: 
-:uri-core-team: 
+:uri-project: https://epicremastered.com/
+:uri-playbook: https://github.com/GameBrains/er-playbook
 
 == About this repository
 

@@ -16,7 +16,7 @@ Benefits of Asciidoc include:
 
 * Easy, robust cross-referencing and redirection of links when we need to change the address of a web page.
 
-* Flexibility to allow people from outside the core team to use a web interface to view the source content and to suggest edits directly.
+* Flexibility to allow people from outside the project team to use a web interface to view the source content and to suggest edits directly.
 
 All in all, Asciidoc is much easier to use than heavy-weight options like HTML or XML-based languages. 
 Yet, when compared to typical writing tools such as wikis or word processors, it also offers more power in many of the ways that really matter for effective collaboration.

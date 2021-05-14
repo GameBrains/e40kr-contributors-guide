@@ -3,7 +3,7 @@ title: Contributor's Guide
 version: master
 asciidoc:
   attributes:
-    uri-core-team: 
+
 start_page: ROOT:overview.adoc
 nav:
 - modules/ROOT/nav.adoc

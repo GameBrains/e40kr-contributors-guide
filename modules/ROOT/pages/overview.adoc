@@ -5,20 +5,19 @@ Yes, you! This is meant to be a community project after all.
 
 This guide covers a range of topics, including:
 
-* How to contribute to the project as part of the core team.
+* How to contribute to the project as part of the project team.
 * How to contribute to the project as part of the wider community.
 * How we store, write and edit the source documents.
 * What software tools you need if you wish to collaboratively edit the source documents, and how to install them on your computer.
 * How we structure and style the source documents so that they are ready for assembly into complete, usable outputs.
 * How we assemble and publish the website (and hopefully other outputs in future).
-// * How to translate the project into another language.
 
 == Project philosophy
 
 Core values of this project include:
 
 * *Collaboration*.
-{project-name} is developed and published by a link:{uri-core-team}[core team] of passionate volunteers. 
-However, the core team also welcomes input and feedback from the wider community -- and features to facilitate this were a big factor in the choice of technologies that we use.
+{project-name} is developed and published by a link:{uri-project-team}[project team] of passionate volunteers. 
+However, the project team also welcomes input and feedback from the wider community -- and features to facilitate this were a big factor in the choice of technologies that we use.
 * *Transparency*.
 We aim to document our methods and processes not only to standardise things and ensure consistency in the output but also so that the project is open to scrutiny, open to ideas and open for anyone to contribute.

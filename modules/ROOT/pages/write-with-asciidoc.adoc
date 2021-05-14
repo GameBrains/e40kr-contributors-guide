@@ -8,7 +8,7 @@
 
 [TIP]
 ====
-Don't be intimidated by these guides. Much of their content is relevant only for set-up that you won't have to deal with, or for software installation that only members of the core team are likely to want to bother with (and even then, much can be done in a web interface -- no installation required).
+Don't be intimidated by these guides. Much of their content is relevant only for set-up that you won't have to deal with, or for software installation that only members of the project team are likely to want to bother with (and even then, much can be done in a web interface -- no installation required).
 
 In future, this project should include much friendlier chunks of information that are directly relevant for collaborators in this project.
 ====
