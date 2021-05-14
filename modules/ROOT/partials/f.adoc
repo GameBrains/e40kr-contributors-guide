@@ -1,2 +1,26 @@
 = F
 
+== farther; further
+
+*Farther* refers to length or distance -- it is the comparative form of the word 'far'.
+Use this word in relation to physical distance.
+
+*Further* can mean 'to a greater degree', 'additional', or 'also', in reference to time, amount or continuation.
+Use this word for metaphorical or figurative distance or degree.
+Avoid continuations with this word -- use 'also' or consider whether you can make a simpler sentence.
+ 
+== file extensions; file formats; file types
+
+* Where the focus in on a particular file extension, use the `monospace/code` text format, precede with a full stop, and type the extension in lower case unless this is not usual ([green]#Check the names of all `.pdf` files in the list#).
+* Where the focus is on the actual file format itself, or on the type of file in general, type the abbreviation in its standard form -- usually upper case ([green]#use the JPEG format for photos#; [green]#PDF files are good for archival#).
+* If the extension/format/type is unusual and likely to be unfamiliar to the reader, introduce it at the first mention in much the same way as for initialisms -- or even with a short explanation if it is important.
+
+== file names
+
+See https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-file-names.html[Topic titles and topic file names] on the Motive Content Ltd website.
+
+== fire; shoot
+
+Writers often use 'fire' as a synonym for 'shoot'.
+Needless variation can lead to ambiguity, so be consistent and use 'shoot' throughout the rules.
+Outside of the rules context, it is okay to use 'fire' where it is a more natural English language match for your prose.

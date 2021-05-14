@@ -24,3 +24,9 @@ Shorter form: [green]#Mon 04 Sept 2020, 10:30am–12:30pm.#
 
 Shortest form: [green]#2020-09-04 1030h–1230h.#
 ====
+
+== dice; die
+
+Dice = plural of die.
+Die = singular of dice.
+Use the correct form -- just because some manufacturers can't seem to get it right doesn't mean that we shouldn't!
