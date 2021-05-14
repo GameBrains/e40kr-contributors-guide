@@ -10,7 +10,7 @@ See also <<citations>>.
 * Names of computer languages, protocols and reference standards: [green]#File Transfer Protocol#.
 * Special keywords in this project, when you use them in their special sense:
 ** Keywords for special abilities and super-heavy weapons, such as [green]#{anti-tank}#.
-Though in most cases you should use a defined variable which outputs with the correct capitalisation and formatting anyway.
+Though in most cases, in the Asciidoc source, you should use a defined attribute which outputs with the correct capitalisation and formatting anyway (in this case, you'd type [green]#+{anti-tank}+# to invoke the correct attribute).
 ** Unit characteristics, such as [green]#Firepower value#.
 ** Unit types, such as [green]#War Engine unit#.
 +
