@@ -54,7 +54,7 @@ Don't use [red]#This is in ALPHA#.
 
 Use your judgement here.
 Words like *allows*, *needs*, *offers* and *permits* are anthropomorphic, but generally acceptable.
-See link:http://literarydevices.net/anthropomorphism/[+Anthropomorphism, on the Literary Devices website+^]. 
+See link:http://john.maloney.org/Editing/anthropomorphization.htm[Anthropomorphism^] (external URL).
  
 == apostrophes
 

@@ -23,4 +23,4 @@ See https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-
 
 Writers often use 'fire' as a synonym for 'shoot'.
 Needless variation can lead to ambiguity, so be consistent and use 'shoot' throughout the rules.
-Outside of the rules context, it is okay to use 'fire' where it is a more natural English language match for your prose.
+Outside of the rules context, it is okay to use 'fire' where it is a more 'natural' match for your prose.
