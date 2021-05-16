@@ -1,2 +1,21 @@
 = H
 
+== headings
+
+Use only standard capitalisation, also known as sentence case. 
+Never use title case or full upper case for headings.
+Get some tips on how to construct good headings at https://motivecontent.com/resources/moco/style-guide/titles-and-headings.html[Titles and headings^] (external URL).
+
+[[hyperlinks]]
+== hyperlinks (usage)
+
+It can be tricky to use hyperlinks well in documentation.
+Get some tips at https://motivecontent.com/resources/moco/style-guide/write-effective-hyperlinks.html[Write effective hyperlinks^] (external URL).
+See also <<urls_usage>>.
+ 
+== hyphens
+
+* Hyphenate two-part words where it makes sense to separate repeated vowels ([green]#co-operate#; [green]#pre-eminent#; [green]#pre-empt#; [green]#re-entry#).
+* Do not use a hyphen where you should use a semi-colon, colon, em dash or en dash -- each has its own purpose, so learn to use them as outlined in this guide.
+
+See also <<e_words>>.

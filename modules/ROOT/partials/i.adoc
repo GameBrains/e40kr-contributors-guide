@@ -1,2 +1,31 @@
 = I
 
+[[ie]]
+== ie
+
+A contraction of a <<latin>> term that we use to mean _that is_.
+No full stops.
+Lower case.
+Use it with a comma either side, ie, like this -- or comma after in parenthesis (ie, like this).
+Do not confuse with <<eg>>, which has a different meaning.
+
+However, *avoid* this term and use plain English instead.
+ 
+== internet
+
+The worldwide collection of networks offering a number of services, one of which is the Web.
+In general, use lower case ([green]#internet access#; [green]#internet service provider#).
+It isn't wrong to capitalise when you use the word as a proper noun -- *the* [green]#Internet# -- but it can be tricky.
+Be consistent, and if you want to know more see link:https://proofreadmyessay.co.uk/writing-tips/when-should-i-capitalise-internet[When Should I Capitalise 'Internet'?^] (external URL).
+ 
+== it's; its
+
+_It's_ is a contraction of _it is_.
+_Its_ means belonging to, much like _his_ and _hers_ -- no apostrophe.
+[red]#Its'# is meaningless.
+ 
+== italics
+
+Do not use _italics_ for <<emphasis>>.
+Use italics to reference the title of an article, document or publication, or for defined keywords where appropriate.
++[TODO: Rationalise use of italics in this A to Z.]+

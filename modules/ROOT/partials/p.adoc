@@ -1,2 +1,42 @@
 = P
 
+== passive case
+
+Do not use passive case, except where there really is no better way -- which there usually is unless you have a specific need to be vague about agency.
+Instead, use the active case, usually in the imperative, and in the first or second person.
+
+It should always be clear who or what is the 'actor' in the sentence.
+For rules, assume that the reader is the primary actor even though they might actually read the rules to check what their opponent may or may not do.
+
+.Active case, not passive case
+====
+First person: [green]#We will release#, not [red]#It will be released#.
+
+Second person, imperative: [green]#Check that there are no dice on the floor#, not [red]#It is recommended that the player checks underfoot for dice#.
+
+Second person as the primary actor: [green]#When you shoot with this weapon#, not [red]#When a player shoots with this weapon#.
+====
+ 
+== percent
+
+See <<symbols_percent>>.
+
+== plugin; plug in
+
+Plugin = noun, as in a software component that extends functionality ([green]#I like the flow chart plugin#).
+
+Plug in = phrasal verb.
+Avoid phrasal verbs, and use a clearer alternative ([green]#plug your charger into your phone#, not [red]#plug in your charger#). 
+ 
+== plurals
+
+Don't use an apostrophe to pluralise an abbreviation -- unless the abbreviation ends with an *s*.
+Even then, it is often better to add the appropriate plural noun ([green]#Automated SOS messages#, not [red]#Automated SOS’s#).
+See also <<abbreviations>>.
+
+For the possessive on a plural, see <<apostrophes>>.
+ 
+== practice; practise
+
+Practice = noun ([green]#with regular practice, the rules become easy to remember#).
+Practise = verb ([green]#you can practise a variety of tactics#).

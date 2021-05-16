@@ -1,2 +1,32 @@
 = O
 
+== OK
+
+Upper case.
+No full stops.
+'Okay' is also acceptable.
+
+== open source
+
+Lower case.
+As a noun, don't hyphenate ([green]#this project is open source#).
+As an adjective to precede a noun, hyphenate ([green]#this is an open-source project#).
+Don't use [red]#open-sourced#.
+ 
+== ongoing
+
+One word, no hyphen. 
+ 
+== online; offline
+
+One word, no hyphen. 
+ 
+== ordinals
+
+See <<numbers>>.
+
+== OS
+
+_operating system_.
+Don't use [red]#O-S# or [red]#O/S# or [red]#O.S.#
+Note that Apple devices use [green]#iOS# or [green]#MacOS#, and Google Android-based devices use [green]#Android OS#.
