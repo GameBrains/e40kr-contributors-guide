@@ -1,9 +1,22 @@
 = Best practices
 
-This project aims to deploy a number of best practices to make the user experiences (for both authors and readers) as good as possible.
+This project aims to deploy commonly accepted 'best practices' to make the user experiences as good as possible, for both readers and contributors.
 
-One such practice is 'topic-based writing' in the form described in link:https://everypageispageone.com/[Every Page is Page One, window=_blank].
-This means that the Asciidoc page files in this project each comprise a self-contained 'topic' rather than a monolithic 'chapter' or other traditional book-based construct.
+As we adopt, develop or change practices we should document and share them so that all contributors can be aware and adopt the same.
 
-The detail is a little more complicated than this, but the point is that authors can use a given topic in a number of clever ways without it seeming to be incomplete, out of place or otherwise 'weird' to the reader.
+For now, note the practices below and also keep an eye on xref:a-to-z-of-style.adoc[].
+
+== One sentence per line
+
+This practice is very helpful for a number of reasons — please read
+link:https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line[One Sentence Per Line^] (external URL).
+
+== Topic-based writing
+
+Done right, this practice is enormously helpful for effective management and delivery of modern publications.
+
+In essence, it means that each Asciidoc page source file in this project should comprise a self-contained 'topic' rather than a monolithic 'chapter' or other traditional book-based construct.
+The point is that topics are much easier to develop, review and reuse in clever ways that also feel more effective for the reader.
 Less maintenance, fewer errors, and better usability (especially in digital formats).
+
+This is a whole subject in itself, but for a quick overview of the general ideas see link:https://everypageispageone.com/[Every Page is Page One^] (external URL).

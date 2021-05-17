@@ -1,5 +1,22 @@
 = I
 
+== -ing words
+
+Be careful with words that end with _ing_, especially gerunds (that is, verb forms which function as nouns, such as 'shooting').
+
+It is all too easy to use such words in ways that weaken the text and create more room for doubt.
+Use more descriptive verbs or more plain and powerful phrases instead.
+
+For more information, see link:https://simplewriting.org/are-ing-words-bad/[Are -ing words really that bad?] (external URL).
+
+.-ing words
+====
+[green]#You measured, and then shot with the Vehicle unit#, not [red]#You were measuring and shooting the Vehicle unit.#
+
+Use a phrase like [green]#Shoot with a super-heavy weapon#, not [red]#Shooting a super-heavy weapon# (and not [red]#Shoot a super-heavy weapon# either).
+
+====
+
 [[ie]]
 == ie
 
