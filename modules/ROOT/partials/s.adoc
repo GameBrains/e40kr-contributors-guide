@@ -32,3 +32,8 @@ If you need to include a sub-sequence within a step, use indented lowercase lett
 . And then continue with the next step like this. 
 
 See also <<bullets>>.
+
+== super-heavy
+
+Two words.
+Hyphenate.
