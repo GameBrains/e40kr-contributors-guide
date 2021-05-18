@@ -17,7 +17,7 @@ Avoid continuations with this word -- use 'also' or consider whether you can mak
 
 == file names
 
-See https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-file-names.html[Topic titles and topic file names^] on the Motive Content Ltd website.
+See https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-file-names.html[Topic titles and topic file names^] (external URL).
 
 == fire; shoot
 
