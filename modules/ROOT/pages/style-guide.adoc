@@ -22,3 +22,7 @@ We produce high quality content more quickly.
 New contributors can quickly understand and meet expectations.
 * *Better content*.
 We avoid ambiguity and common mistakes, so that the publication is easy to understand and free of needless distractions.
+
+*Related information*
+
+* xref:a-to-z-of-style.adoc[]

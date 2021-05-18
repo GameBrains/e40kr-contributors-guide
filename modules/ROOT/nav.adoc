@@ -2,8 +2,9 @@
  ** xref:markup-language.adoc[]
  ** xref:repositories-and-version-control.adoc[]
  ** xref:publication.adoc[]
-* xref:write-with-asciidoc.adoc[]
- ** xref:best-practices.adoc[]
 
 * xref:style-guide.adoc[]
-** xref:a-to-z-of-style.adoc[]
+** xref:write-with-asciidoc.adoc[]
+** xref:best-practices.adoc[]
+
+* xref:a-to-z-of-style.adoc[]

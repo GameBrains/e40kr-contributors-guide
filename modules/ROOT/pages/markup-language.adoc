@@ -3,8 +3,6 @@
 We write all the source content for this project in text files, using a light-weight markup language called Asciidoc.
 If you've heard of Markdown then know that Asciidoc is very similar, but more standardised and more powerful for documentation.
 
-NOTE: Asciidoc files can use a few different extensions, but we use `.adoc` throughout.
-
 Benefits of Asciidoc include:
 
 * We can generate a range of formats (website first, hopefully app and PDF later) from the same source (single-source, multi-channel publishing).
@@ -20,3 +18,7 @@ Benefits of Asciidoc include:
 
 All in all, Asciidoc is much easier to use than heavy-weight options like HTML or XML-based languages. 
 Yet, when compared to typical writing tools such as wikis or word processors, it also offers more power in many of the ways that really matter for effective collaboration.
+
+*Related information*
+
+* xref:write-with-asciidoc.adoc[]
