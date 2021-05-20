@@ -1,2 +1,16 @@
 = Q
 
+[[quotation_marks]]
+== quotation marks; quote marks; quotes
+
+In brief: Use double quote marks only to quote passages of text or actual speech; use single quote marks for unusual phrases.
+
+.Double quote marks in more detail
+* Use double quote marks to quote passages of text or direct speech ([green]#Wazdagga said "Oi, wossat over dere"#). 
+* If the quote is a full sentence, place terminal punctuation -- such as a full stop -- before the closing mark.
+Otherwise, punctuate *after* the closing mark. 
+* When you start a new paragraph within a quote, close the paragraph with terminal punctuation only (such as a full stop) -- skip the closing double quote mark, but start the new paragraph with an opening mark.
+* For long or engaging quotes, consider link:https://docs.asciidoctor.org/asciidoc/latest/blocks/blockquotes/[Blockquotes^] (external URL).
+
+.Single quotes in more detail
+* When you refer to events and unusual phrases, use only single quotes.

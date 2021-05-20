@@ -20,3 +20,9 @@ The point is that topics are much easier to develop, review and reuse in clever 
 Less maintenance, fewer errors, and better usability (especially in digital formats).
 
 This is a whole subject in itself, but for a quick overview of the general ideas see link:https://everypageispageone.com/the-book/[Every Page is Page One^] (external URL).
+
+== External URLs
+
+It is good practice to let the reader know when a hyperlink will take them to another website.
+
+We may use an automatic method in future; but for now, add the text [green]#(external URL)# after any hyperlink that will take the reader away from epicremastered.com.

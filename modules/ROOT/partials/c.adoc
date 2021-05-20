@@ -40,7 +40,9 @@ NOTE: Take extra care with terms that can have a particular meaning, to avoid am
 == citations
 
 In the absence of other guidance for a particular case, give citations in the following format: <article title>, _<publication, in italics>_, <issue, or date>.
-For example: [green]#Path of the Eldar, _White Dwarf_, issue 214.#.
+For example: [green]#Path of the Eldar, _White Dwarf_, issue 214#.
+
+Use the same words and capitalisation as in the target publication.
 
 == contractions
 
