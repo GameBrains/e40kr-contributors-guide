@@ -22,8 +22,7 @@ Don't take it for granted that all readers are familiar with an abbreviation.
 If you will use the abbreviation of the term later in the topic, then first put it in brackets immediately after the full expansion.
 [green]#A super-heavy tank (SHT) is a fearsome machine. It's common for several SHTs to work together...#
 * *Don't* use an unfamiliar abbreviation if it won't be used again in the text.
-* *Don't* use an abbreviation as a verb ([green]#Direct AT shots at hard targets# not [red]#AT hard targets#).
-+[TODO: Find a better example: In general, we should use a variable for the Anti-Tank ability, and spell out more general use of 'anti-tank', so we wouldn't use 'AT' in prose anyway.]+
+* *Don't* use an abbreviation as a verb ([green]#Use SHWs against prime targets#, not [red]#SHW prime targets#).
 * *Don't* include full stops in abbreviations.
 * *Don't* use an apostrophe to pluralise abbreviations unless the abbreviation ends in an *s* ([green]#the titan destroyed two SHTs#; [green]#_Epic 40,000_ was published in the late 1990s#). 
  
