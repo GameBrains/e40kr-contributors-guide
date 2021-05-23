@@ -1,2 +1,23 @@
 = U
 
+== up-to-date
+
+Hyphenate when you use the term like an adjective to describe the operative noun, but not when you use it as the focus of a statement ([green]#we always use the up-to-date version#; [green]#the publication is up to date#).
+
+== units
+
+See <<numbers>>.
+
+[[uri]]
+== URI
+
+_uniform resource indicator_.
+There is a technical difference between URL and URI, but URL is in common use even where URI would be more accurate.
+Favour *URL* except where the distinction is important.
+
+See also <<hyperlinks>>.
+
+== URL
+
+_uniform resource locator_.
+See also <<hyperlinks>>.

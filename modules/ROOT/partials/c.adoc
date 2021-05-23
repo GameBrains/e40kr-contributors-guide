@@ -20,7 +20,7 @@ See also <<citations>>.
 * Special keywords in this project, when you use them in their special sense:
 ** Keywords for special abilities and super-heavy weapons, such as [green]#{death-ray}#.
 Though in most cases, in the Asciidoc source, you should use a defined attribute which outputs with the correct capitalisation and formatting anyway (in this case, you'd type [green]#+{death-ray}+# to invoke the correct attribute).
-** Unit characteristics, such as [green]#Firepower value# and [green]#Damage Capacity#.
+** Unit characteristics, such as [green]#Firepower value# and [green]#Damage Capacity value#.
 ** Unit types, such as [green]#War Engine unit#.
 +
 NOTE: The correct way to pluralise a keyword like War Engine is to add the correct plural noun: [green]#War Engine units#, not [red]#War Engines#.
@@ -28,8 +28,8 @@ NOTE: The correct way to pluralise a keyword like War Engine is to add the corre
 .*Do not* capitalise
 
 * Compass directions and derivations ([green]#north, east, south and west#; [green]#southern Necromunda#; [green]#the north-western wastelands#) -- unless they form part of an actual or implied proper name for a region.
-* Expansions of initialisms, except where the expansion includes words that we would normally capitalise anyway: [green]#super-heavy tank#, not [red]#Super-Heavy Tank (SHT)#.
-* Terms that also happen to be special keywords, when we don't use them as such: [green]#The Space Marines put up a stubborn resistance#.
+* Expansions of initialisms, except where the expansion includes words that we would normally capitalise anyway: [green]#super-heavy tank (SHT)#, not [red]#Super-Heavy Tank (SHT)#.
+* Terms that also happen to be special keywords, when we don't use them as such: [green]#The Space Marines put up a stubborn resistance#, not [red]#The Space Marines put up a {stubborn} resistance#.
 * Terms that can have a particular meaning in the rules, but which do not act as special keywords: [green]#detachment#; [green]#unit type#; [green]#unit#.
 +
 NOTE: Take extra care with terms that can have a particular meaning, to avoid ambiguity in the rules -- don't mix terms like 'detachment' and 'unit', and don't use synonyms like 'formation'.

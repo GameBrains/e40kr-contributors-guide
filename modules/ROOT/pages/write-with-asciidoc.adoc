@@ -15,3 +15,30 @@ Over time, we intend to add more guidance that is specific for contributions to 
 ====
 
 NOTE: Asciidoc files can use a few different extensions, but we use `.adoc` throughout.
+
+== Quick-start Asciidoc and Antora
+
+Some reference URLs to help you with some of the most common concepts and markup you'll need.
+
+.Antora project folder structure
+link:https://docs.antora.org/antora/2.3/standard-directories[Standard File and Directory Set^]
+
+.Antora navigation structure -- the Antora `nav.adoc` files
+To understand how to use the `nav.adoc` navigation files, see https://docs.antora.org/antora/2.3/navigation/files-and-lists[Navigation Files and Lists^]
+
+.Attributes, and their use for keywords
+There are different types of attribute that serve different functions in the project.
+But the main ones you need to know are those that we use for keywords in the project.
+To find these, look inside either of the playbook `.yml` files.
+
+.Cross-reference links between Antora project objects
+Antora uses a clever cross-reference coordinate scheme that can handle references between components, modules and pages (and even versions).
+See link:https://docs.antora.org/antora/2.3/page/page-id/[Page IDs and Cross References^].
+
+.Hyperlinks to internet objects
+There are some shorthand methods to make hyperlinks, but the most robust method is to use the explicit link:https://docs.asciidoctor.org/asciidoc/latest/macros/link-macro[Link Macro^].
+
+Set all external URLs to open in a new tab.
+There is a handy shorthand for this: link:https://docs.asciidoctor.org/asciidoc/latest/macros/link-macro-attribute-parsing/#blank-window-shorthand[Blank window shorthand^].
+
+If you have a troublesome link, see link:https://docs.asciidoctor.org/asciidoc/latest/macros/complex-urls[Troubleshooting Complex URLs^].

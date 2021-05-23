@@ -1,2 +1,14 @@
 = W
 
+== web; Web
+
+* When you use the word as a modifier, use lower case and separate words ([green]#web address#; [green]#web page#; [green]#web application#; [green]#web services#). 
+* However, it is usual to write some terms as single words: [green]#website#; [green]#webcam#; [green]#webmaster#; [green]#webcast#.
+* If you refer to [green]#*the* Web#, capitalise as you would for any other pronoun-- and by extension, capitalise concepts like [green]#Web 2.0#. 
+* Note that 'the Web' is *not* interchangeable with 'the Internet' -- the Web (formally, the World Wide Web) depends upon the Internet, but the reverse is not true.
+ 
+== while; whilst
+
+Use _while_ to convey activities that happen in parallel.
+Use _whilst_ to acknowledge opposing or contrasting viewpoints.
+([green]#My opponent gritted his teeth while I rolled my dice#; [green]#Whilst I do like enamel paint, I much prefer acrylic#)

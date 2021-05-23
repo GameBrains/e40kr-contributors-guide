@@ -1,2 +1,17 @@
 = T
 
+[[titles_for_docs]]
+== titles (for documents and topics)
+
+See https://motivecontent.com/resources/moco/style-guide/titles-and-headings.html[Titles and headings^] and https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-file-names.html[Topic titles and topic file names^] (external URLs).
+
+== toward; towards
+
+Either is acceptable, but favour [green]#towards# as it is more common in UK English.
+
+== trademarks
+
+Check the spelling and capitalisation of trademarks and brands, and use them correctly.
+Do not use a trademark as a verb ([green]#search for it#, not [red]#google it#).
+
+Symbols like (TM) and (R) can be useful where appropriate, but don't overdo it -- on the first mention should be enough in most cases.
