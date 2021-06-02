@@ -19,6 +19,5 @@ Benefits of Asciidoc include:
 All in all, Asciidoc is much easier to use than heavy-weight options like HTML or XML-based languages. 
 Yet, when compared to typical writing tools such as wikis or word processors, it also offers more power in many of the ways that really matter for effective collaboration.
 
-*Related information*
-
+.Related information
 * xref:write-with-asciidoc.adoc[]
