@@ -14,7 +14,7 @@ Aside from Asciidoc markup, use brackets in the content as follows:
 * Default to round brackets `( )` for most use cases.
 Where you use them for parenthesis, try to do this only at the end of a sentence, or -- where appropriate -- consider em dashes instead, as in this sentence.
 * Use square brackets `[ ]` where you need to insert a comment or clarification as an editor.
-You will also need to type an empty attribute in front, such as `+{blank}+`, to escape them to 'escape' them from the normal Asciidoc processing (you could use `+` at each end, but this will escape everything inside the brackets, so URLs and such won't work either).
+You will also need to type an empty attribute in front, such as `+{blank}+`, to 'escape' them from the normal Asciidoc processing (you could use `+` at each end, but this will escape everything inside, so then URLs and such won't work either).
 * Avoid curly brackets `{ }`, except where you have a special use case -- and then you'll need to escape them in the same way as for square brackets.
 
 [[bullets]]
