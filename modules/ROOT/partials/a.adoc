@@ -7,10 +7,6 @@ Before an acronym, let pronunciation be your guide:
 
 * [green]#an SHT# (ess-aytch-tee), not [red]#a SHT#; [green]#a CCW# (see-see-double-yoo), not [red]#an CCW#. 
 * Before a silent *h* use 'an' ([green]#it's an honest mistake#) but where the *h* is pronounced use 'a' ([green]#we found a heretic#).
- 
-== and/or
-
-Do not place spaces around the forward slash. 
 
 [[abbreviations]]
 == abbreviations
@@ -42,21 +38,48 @@ But in general, aim to follow whatever convention the organisation itself uses.
 * Some words that started out as acronyms are now treated as orthodox nouns (as with [green]#laser#). 
 
 TIP: Take extra care with *a* and *an* before an acronym or initialism (see <<a_an>>).
- 
+
+== admonitions; notices
+
+Asciidoc includes five built-in admonition types: `NOTE`; `TIP`; `IMPORTANT`; `CAUTION`; `WARNING`.
+
+* We define our usage in this project at xref:core:ROOT:how-to-use-this-publication.adoc[].
+* Learn about the markup at link:https://docs.antora.org/antora/2.3/asciidoc/admonitions/[Admonitions^] (external URL).
+
+We also use custom admonitions, based on the built-in types.
+You can only use these with the block markup -- you can't use them with the inline markup.
+
+* For '_Epic 40,000_ difference' notes, use `[NOTE.e40k]`.
+
 == ALPHA; BETA
 
 When you mean to refer to an early product release in prose, use upper case.
 [green]#This is an ALPHA release#.
-Don't use [red]#This is in ALPHA#. 
+Don't use [red]#This is in ALPHA#.
+
+== and/or
+
+Do not place spaces around the forward slash.
  
 == anthropomorphism (humanising inanimate objects)
 
 Use your judgement here.
 Words like *allows*, *needs*, *offers* and *permits* are anthropomorphic, but generally acceptable.
 See link:http://john.maloney.org/Editing/anthropomorphization.htm[Anthropomorphism^] (external URL).
+
+Also, choose your words such that you don't conflate things that the player does or that happen as game effects with things that happen 'in universe'.
  
 == apostrophes
 
 * Use the normal possessive ending ([green]#'s#) after singular words or names that end in *s* ([green]#Warboss's retinue#; [green]#Saint Scythus's fame#), and after plurals that do not end in *s* ([green]#Gretchin's#; [green]#Eldar's#; [green]#Guardsmen's#). 
 * Use the ending [green]#s'# on plurals that end in *s* ([green]#the Orks' warlike nature#; [green]#the Warbosses' armies converged#. 
 * Do not insert apostrophes into decades or centuries ([green]#the 1990s#; [green]#the 2000s#).
+
+== asides
+
+Asciidoc includes 'sidebar' markup that is suitable to hold content that is an 'aside' from the main content.
+
+* We define our usage in this project at xref:core:ROOT:how-to-use-this-publication.adoc[].
+Sometimes an aside is a better fit than an admonition.
+Either way, don't overdo it.
+* Learn about the markup at link:https://docs.antora.org/antora/2.3/asciidoc/sidebar/[Sidebars^] (external URL).
