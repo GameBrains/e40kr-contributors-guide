@@ -15,9 +15,17 @@ Use numerals, except in these cases in prose where you should use words:
 
 === Contractions and units
 
-* In general prose, you can use contractions 'k' (thousands), 'm' (millions) and 'bn' (billions) for items and money -- but only with numerals, and never for people or distances.
+In general prose, you can use contractions 'k' (thousands), 'm' (millions) and 'bn' (billions) for items and money -- but only with numerals, and never for people or distances.
 * When you use a contraction, place it next to the numeral (no space).
-* When you use units, use a space to separate them from the numeral.
+
+For units, use the appropriate abbreviations or symbols in most cases [green]#10 cm#, not [red]#10 centimetres#).
+And in general, use a space to separate these from the numeral just as you would for the full term. Some exceptions where you should *not* use a space include:
+
+* &deg; (degrees); &deg;C (degrees Centigrade)
+* " (inches)
+* % (percent)
+
+Note that the plural of an abbreviated unit is the same as the singular ([green]#25 cm#, not [red]#25 cms#).  
 
 .Contractions and units
 ====
