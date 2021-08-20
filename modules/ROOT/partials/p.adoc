@@ -23,10 +23,10 @@ See <<symbols_percent>>.
 
 == plugin; plug in
 
-Plugin = noun, as in a software component that extends functionality ([green]#I like the flow chart plugin#).
+_plugin_ = noun, as in a software component that extends functionality ([green]#I like the flow chart plugin#).
 
-Plug in = phrasal verb.
-Avoid phrasal verbs, and use a clearer alternative ([green]#plug your charger into your phone#, not [red]#plug in your charger#). 
+_plug in_ = phrasal verb.
+Avoid phrasal verbs, and use a clearer alternative ([green]#plug your charger into your phone#, not [red]#plug in your charger#).
  
 == plurals
 
@@ -38,5 +38,5 @@ For the possessive on a plural, see <<apostrophes>>.
  
 == practice; practise
 
-Practice = noun ([green]#with regular practice, the rules become easy to remember#).
-Practise = verb ([green]#you can practise a variety of tactics#).
+_practice_ = noun ([green]#with regular practice, the rules become easy to remember#).
+_practise_ = verb ([green]#you can practise a variety of tactics#).

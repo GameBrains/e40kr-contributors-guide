@@ -3,15 +3,14 @@
 == OK
 
 Upper case.
-No full stops.
-'Okay' is also acceptable.
+_Okay_ is also acceptable.
 
 == open source
 
 Lower case.
-As a noun, don't hyphenate ([green]#this project is open source#).
-As an adjective to precede a noun, hyphenate ([green]#this is an open-source project#).
-Don't use [red]#open-sourced#.
+_open source_ = noun ([green]#this software is open source#).
+_open-source_ = adjective ([green]#open-source software#).
+Don't use [red]#open-sourced# as an adjective.
  
 == ongoing
 

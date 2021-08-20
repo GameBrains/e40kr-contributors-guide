@@ -2,18 +2,22 @@
 
 == setup; set up
 
-Setup = noun ([green]#Terrain setup#).
-Set up = verb ([green]#Set up the terrain#).
-Don't hyphenate. 
+_setup_ = noun ([green]#Terrain setup#).
+_set up_ = verb ([green]#Set up the terrain#).
+Don't hyphenate.
 
 [[spelling]]
 == spelling
 
-Use modern UK English spellings ([green]#immobilised#, not [red]#immobilized#). See also <<localisation>>.
+Use modern UK English spellings.
+So: [green]#immobilised#, not [red]#immobilized#; [green]#colour#, not [red]#color#. 
+
+See also <<localisation>>.
  
 == spaces
 
-Do not use double spaces after a full stop or other punctuation -- this became redundant when computers and proportional fonts replaced typewriters and monospace fonts. 
+Do not use double spaces after a full stop or other punctuation -- this became redundant when computers and proportional fonts replaced typewriters and monospace fonts.
+Use only a single space.
 
 [[steps]] 
 == steps (ordered lists)
@@ -35,5 +39,4 @@ See also <<bullets>>.
 
 == super-heavy
 
-Two words.
-Hyphenate.
+Two words, hyphenated.

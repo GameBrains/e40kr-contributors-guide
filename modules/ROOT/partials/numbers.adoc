@@ -11,14 +11,14 @@ Use numerals, except in these cases in prose where you should use words:
  * Where you use a common expression ([green]#one or two of them#; [green]#three's company#).
  * Where you start a sentence with a number ([green]#Twenty Land Raiders? That's a lot of firepower!#).
  * Where you state a simple fraction ([green]#one half#; [green]#two thirds#).
- * Ordinals one through nine ([green]#first#; [green]#ninth#); thereafter, use the numeral with 'st', 'nd', 'rd' or 'th' as appropriate, in superscript ([green]#8^th^ army#; [green]#41^st^ millenium#; [green]#33^rd^ regiment#).
+ * Ordinals one through nine ([green]#first#; [green]#ninth#); thereafter, use the numeral with 'st', 'nd', 'rd' or 'th' as appropriate, in superscript ([green]#8^th^ army#; [green]#41^st^ millennium#; [green]#33^rd^ regiment#).
 
 === Contractions and units
 
 In general prose, you can use contractions 'k' (thousands), 'm' (millions) and 'bn' (billions) for items and money -- but only with numerals, and never for people or distances.
 * When you use a contraction, place it next to the numeral (no space).
 
-For units, use the appropriate abbreviations or symbols in most cases [green]#10 cm#, not [red]#10 centimetres#).
+For units, use the appropriate abbreviations or symbols in most cases ([green]#10 cm#, not [red]#10 centimetres#).
 And in general, use a space to separate these from the numeral just as you would for the full term. Some exceptions where you should *not* use a space include:
 
 * &deg; (degrees); &deg;C (degrees Centigrade)
@@ -41,7 +41,7 @@ Note that the plural of an abbreviated unit is the same as the singular ([green]
 
 === Other rules for numbers
 
-* For decimal values less than 1, always include the leading 0 ([green]#0.3#, not [red]#.3#).
+* For decimal values of less than 1, always include the leading '0' ([green]#0.3#, not [red]#.3#).
 * For numerals over 999, insert commas for clarity ([green]#1,000#; [green]#2,500,000#).
 * Use [green]#to# in number ranges, or use en dash if you must [green]#–#, not hyphen [red]#-# or em dash [red]#—# ([green]#8 to 12 vehicles#; [green]#8–12 vehicles#). 
 

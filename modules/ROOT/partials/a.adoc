@@ -28,7 +28,7 @@ See also <<abbreviations>>.
 
 We define an *acronym* as a set of initial letters of words, which we then pronounce as a word ([green]#PIN#; [green]#NASA#).
 
-We define an *initialism* as a set of initial letters of words, which we *do not* pronounce as a word ([green]#SHT#; [green]#GW#) .
+We define an *initialism* as a set of initial letters of words, which we *do not* pronounce as a word ([green]#SHT#; [green]#GW#).
 
 In general, you should use upper case for both acronyms and initialisms.
 But note the common exceptions:

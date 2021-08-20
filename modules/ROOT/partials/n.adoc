@@ -2,8 +2,8 @@
 
 == none; non-
 
-None = pronoun meaning not one or not any ([green]#they checked the floor for dice, but there were none#). 
-Non- = a prefix added to words to mean not or the opposite of ([green]#non-human#; [green]#non-functional#).
+_none_ = pronoun that means not one or not any ([green]#they checked the floor for dice, but there were none#). 
+_non-_ = a prefix that we add to a term to mean _not_ or _the opposite of_ that term ([green]#non-human#; [green]#non-functional#).
  
 == numbers; numerals
 
