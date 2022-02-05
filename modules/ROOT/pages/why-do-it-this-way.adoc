@@ -1,0 +1,20 @@
+= Why do it this way?
+
+Speaking from long experience as a professional technical writer: It is usually hard, even exhausting, to deliver and maintain documentation projects.
+
+This is partly because such projects don't scale well, given the inherent complexity and the typical tools and processes that are in use:
+
+* 'More collaborators' doesn't always equate to 'faster and better progress'.
+Yes, collaboration is great in principle, because you share effort and pool ideas and expertise.
+But in practice, collaboration also makes it even harder to keep track of work, to ensure consistency and to reach agreement.
+* Feedback from the wider community is hard to get and to track in a way that makes it easy to discuss and act upon.
+* Even when the writing and editing is 'done', the actual publishing usually involves many labour-intensive steps.
+
+And in spite of all the marketing buzz words, most software for writing projects doesn't actually help much with these challenges.
+
+So, while we could work *hard* with word processors/wikis/forums/whatever, I'd much rather we work *smart*...
+
+So, I've chosen technologies that facilitate a 'docs like code' approachfootnote:[For a general idea of what this means, see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[Why we use a ‘docs as code’ approach for technical documentation^] (external URL).].
+I think that this will help to bring vitality to the project in a way that traditional writing tools and processes just can't.
+
+_Eric Weston_

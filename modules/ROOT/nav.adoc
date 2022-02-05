@@ -1,4 +1,5 @@
 * xref:overview.adoc[]
+ ** xref:why-do-it-this-way.adoc[]
  ** xref:markup-language.adoc[]
  ** xref:repositories-and-version-control.adoc[]
  ** xref:publication.adoc[]
