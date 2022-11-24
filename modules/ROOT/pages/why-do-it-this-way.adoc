@@ -14,7 +14,10 @@ And in spite of all the marketing buzz words, most software for writing projects
 
 So, while we could work *hard* with word processors/wikis/forums/whatever, I'd much rather we work *smart*...
 
-So, I've chosen technologies that facilitate a 'docs like code' approachfootnote:[For a general idea of what this means, see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[Why we use a ‘docs as code’ approach for technical documentation^] (external URL).].
+So, I've chosen technologies that facilitate a 'docs like code' approach.
+footnote:[
+For a general idea of what this means, see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[Why we use a ‘docs as code’ approach for technical documentation^] (external URL).
+]
 I think that this will help to bring vitality to the project in a way that traditional writing tools and processes just can't.
 
 _Eric Weston_
