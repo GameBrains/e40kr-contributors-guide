@@ -49,7 +49,7 @@ Asciidoc includes five built-in admonition types: `NOTE`; `TIP`; `IMPORTANT`; `C
 We also use custom admonitions, based on the built-in types.
 You can only use these with the block markup -- you can't use them with the inline markup.
 
-* For '_Epic 40,000_ difference' notes, use `[NOTE.e40k]`.
+* For '{e40k} difference' notes, use footnotes in the form `+footnote:[{e40k-diff}]+`.
 
 == ALPHA; BETA
 
