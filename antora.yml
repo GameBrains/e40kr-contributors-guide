@@ -1,6 +1,6 @@
 name: contributors-guide
 title: Contributor's Guide
-version: master
+version: ~
 asciidoc:
   attributes:
 
