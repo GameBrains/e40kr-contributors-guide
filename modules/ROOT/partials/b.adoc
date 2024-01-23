@@ -5,7 +5,7 @@
 Asciidoc includes markup that you can use to apply a title to a block element.
 
 * We haven't fully defined our usage yet, but in general: Use a block title to provide clarity or sub-structure where the content doesn't warrant a full heading (and built-in anchor).
-* Learn about the markup at link:https://docs.asciidoctor.org/asciidoc/latest/blocks/add-title/[Add a Title to a Block^] (external URL).
+* Learn about the markup at link:https://docs.asciidoctor.org/asciidoc/latest/blocks/add-title/[Add a Title to a Block^].
 
 == brackets
 

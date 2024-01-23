@@ -17,7 +17,7 @@ This guide covers a range of topics, including:
 Core values of this project include:
 
 * *Collaboration*.
-{project-name} is developed and published by a link:{uri-project-team}[project team^] (external URL) of passionate volunteers. 
+{project-name} is developed and published by a small {uri-project-team}[project team^] of passionate volunteers.
 However, the project team also welcomes input and feedback from the wider community -- and features to facilitate this were a big factor in the choice of technologies that we use.
 * *Transparency*.
 We aim to document our methods and processes not only to standardise things and ensure consistency in the output but also so that the project is open to scrutiny, open to ideas and open for anyone to contribute.

@@ -3,7 +3,7 @@
 [[titles_for_docs]]
 == titles (for documents and topics)
 
-See https://motivecontent.com/resources/moco/style-guide/titles-and-headings.html[Titles and headings^] and https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-file-names.html[Topic titles and topic file names^] (external URLs).
+See https://motivecontent.com/resources/moco/style-guide/titles-and-headings.html[Titles and headings^] and https://motivecontent.com/resources/moco/style-guide/topic-titles-and-topic-file-names.html[Topic titles and topic file names^].
 
 == toward; towards
 

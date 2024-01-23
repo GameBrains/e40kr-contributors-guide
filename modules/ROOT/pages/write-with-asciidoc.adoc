@@ -1,6 +1,6 @@
 = Write with Asciidoc
 
-Some useful reference information (external URLs):
+Some useful reference information:
 
 * link:https://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoc Writer's Guide^]
 * link:https://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual^]

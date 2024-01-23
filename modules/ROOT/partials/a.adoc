@@ -44,7 +44,7 @@ TIP: Take extra care with *a* and *an* before an acronym or initialism (see <<a_
 Asciidoc includes five built-in admonition types: `NOTE`; `TIP`; `IMPORTANT`; `CAUTION`; `WARNING`.
 
 * We define our usage in this project at xref:core:ROOT:how-to-use-this-publication.adoc[].
-* Learn about the markup at link:https://docs.antora.org/antora/2.3/asciidoc/admonitions/[Admonitions^] (external URL).
+* Learn about the markup at link:https://docs.antora.org/antora/2.3/asciidoc/admonitions/[Admonitions^].
 
 We also use custom admonitions, based on the built-in types.
 You can only use these with the block markup -- you can't use them with the inline markup.
@@ -65,7 +65,7 @@ Do not place spaces around the forward slash.
 
 Use your judgement here.
 Words like *allows*, *needs*, *offers* and *permits* are anthropomorphic, but generally acceptable.
-See link:http://john.maloney.org/Editing/anthropomorphization.htm[Anthropomorphism^] (external URL).
+See link:http://john.maloney.org/Editing/anthropomorphization.htm[Anthropomorphism^].
 
 Also, choose your words such that you don't conflate things that the player does or that happen as game effects with things that happen 'in universe'.
  
@@ -82,4 +82,4 @@ Asciidoc includes 'sidebar' markup that is suitable to hold content that is an '
 * We define our usage in this project at xref:core:ROOT:how-to-use-this-publication.adoc[].
 Sometimes an aside is a better fit than an admonition.
 Either way, don't overdo it.
-* Learn about the markup at link:https://docs.antora.org/antora/2.3/asciidoc/sidebar/[Sidebars^] (external URL).
+* Learn about the markup at link:https://docs.antora.org/antora/2.3/asciidoc/sidebar/[Sidebars^].
